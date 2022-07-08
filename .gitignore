@@ -45,7 +45,7 @@
 /tasks_client/
 # production/
 /tasks_client/build
-/tasks_client/
+
 # misc/
 /tasks_client/.DS_Store
 /tasks_client/.env.local
