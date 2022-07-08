@@ -39,10 +39,10 @@
 /tasks_client/node_modules
 /tasks_client/.pnp
 /tasks_client/.pnp.js
-/tasks_client/
+
 /tasks_client/# testing
 /tasks_client//coverage
-/tasks_client/
+
 # production/
 /tasks_client/build
 
@@ -52,7 +52,7 @@
 /tasks_client/.env.development.local
 /tasks_client/.env.test.local
 /tasks_client/.env.production.local
-/tasks_client/
+
 /tasks_client/npm-debug.log*
 /tasks_client/yarn-debug.log*
 /tasks_client/yarn-error.log*
